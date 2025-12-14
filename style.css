@@ -67,35 +67,3 @@ p {
     letter-spacing: .2px;
 }
 
-
-@media screen and (max-width: 768px) {
-    main {
-        max-width: 320px;
-    }
-
-    .description-qr-code {
-        padding: 1em;
-    }
-
-    h1 {
-        font-size: 22px;
-    }
-
-    p {
-        font-size: 15px;
-    }
-}
-
-@media screen and (min-width: 1441px) {
-    
-    main {
-        max-width: 400px;
-    }
-}
-
-@media screen and (min-width: 2000px) {
-    main {
-        max-width: 500px;
-    }
-}
-
